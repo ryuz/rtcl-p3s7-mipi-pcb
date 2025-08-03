@@ -1,0 +1,26 @@
+
+datasheet/
+*-backups/
+\#auto_saved_files\#
+fp-info-cache
+fp-lib-table
+
+3dmodel/
+# gerber/
+
+order/
+photo/
+
+~*
+_*
+*_
+*_.*
+
+*.bak
+sym-lib-table
+
+*.pdf
+*.zip
+
+*.step
+*.wrl
