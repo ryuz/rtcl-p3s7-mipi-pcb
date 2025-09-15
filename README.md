@@ -16,7 +16,10 @@ KiCAD にて設計を行っております。
 
 ## 基板販売
 
-[BOOTH](https://rtc-lab.booth.pm/)にて販売中です。
+当方で製造したものを[BOOTH](https://rtc-lab.booth.pm/)にて販売中です。
+
+- [モノクロ版](https://rtc-lab.booth.pm/items/7427869)
+- [カラー版](https://rtc-lab.booth.pm/items/7428802)
 
 
 ## 関連ソフトウェア
