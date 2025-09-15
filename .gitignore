@@ -18,12 +18,12 @@ gerber/
 position/
 order/
 photo/
-production/
+#production/
 
 fabrication-toolkit-options.json
 
 
-*.pdf
+#*.pdf
 *.zip
 
 *.step
