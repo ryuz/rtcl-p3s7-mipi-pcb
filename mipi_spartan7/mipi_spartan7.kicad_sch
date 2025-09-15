@@ -5010,7 +5010,7 @@
 				(pin bidirectional line
 					(at 8.89 -26.67 180)
 					(length 5.08)
-					(name "GPIO"
+					(name "GPIO0"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5028,7 +5028,7 @@
 				(pin bidirectional line
 					(at 8.89 -29.21 180)
 					(length 5.08)
-					(name "CLK"
+					(name "GPIO1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -20361,7 +20361,7 @@
 		)
 		(uuid "5760630a-677c-4d72-b523-adeebea2f8a2")
 	)
-	(label "RPI_MIPI_CLK"
+	(label "RPI_MIPI_GPIO1"
 		(at 173.99 199.39 0)
 		(effects
 			(font
@@ -20711,7 +20711,7 @@
 		)
 		(uuid "9cf5c05a-6798-402f-85ad-bde2b643062a")
 	)
-	(label "RPI_MIPI_GPIO"
+	(label "RPI_MIPI_GPIO0"
 		(at 173.99 204.47 0)
 		(effects
 			(font
@@ -21191,7 +21191,7 @@
 		)
 		(uuid "d65ebb32-3b21-4ceb-8a1f-cd2b0849a7c5")
 	)
-	(label "RPI_MIPI_CLK"
+	(label "RPI_MIPI_GPIO1"
 		(at 80.01 127 180)
 		(effects
 			(font
@@ -21431,7 +21431,7 @@
 		)
 		(uuid "fb793809-437b-4744-a4ca-fc708cb5a4eb")
 	)
-	(label "RPI_MIPI_GPIO"
+	(label "RPI_MIPI_GPIO0"
 		(at 80.01 124.46 180)
 		(effects
 			(font
@@ -23522,7 +23522,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Oscillator:Oscillator_SMD_SeikoEpson_SG8002LB-4Pin_5.0x3.2mm"
+		(property "Footprint" "mipi_spartan7:SG-210STF"
 			(at 360.68 316.23 0)
 			(effects
 				(font
@@ -23852,7 +23852,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "2.2k"
 			(at 161.798 106.934 90)
 			(effects
 				(font
@@ -23928,7 +23928,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FTGB196_XIL"
+		(property "Footprint" "mipi_spartan7:FTGB196"
 			(at 375.158 68.072 0)
 			(effects
 				(font
@@ -25464,7 +25464,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CON15_1X15_DRB_SFW_GLE"
+		(property "Footprint" "mipi_spartan7:SFW15R-1STE1LF"
 			(at 29.464 85.852 0)
 			(effects
 				(font
@@ -25646,7 +25646,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FTGB196_XIL"
+		(property "Footprint" "mipi_spartan7:FTGB196"
 			(at 212.598 68.072 0)
 			(effects
 				(font
@@ -30501,7 +30501,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FTGB196_XIL"
+		(property "Footprint" "mipi_spartan7:FTGB196"
 			(at 211.328 233.172 0)
 			(effects
 				(font
@@ -31899,7 +31899,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "2.2k"
 			(at 161.798 109.22 90)
 			(effects
 				(font
@@ -34809,7 +34809,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Oscillator:Oscillator_SMD_SeikoEpson_SG8002LB-4Pin_5.0x3.2mm"
+		(property "Footprint" "mipi_spartan7:SG-210STF"
 			(at 360.68 275.59 0)
 			(effects
 				(font
@@ -36954,7 +36954,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FTGB196_XIL"
+		(property "Footprint" "mipi_spartan7:FTGB196"
 			(at 511.048 65.532 0)
 			(effects
 				(font
