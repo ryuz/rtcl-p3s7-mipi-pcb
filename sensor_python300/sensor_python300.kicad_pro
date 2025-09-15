@@ -37,7 +37,7 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.0,
+          "drill": 1.9,
           "height": 3.0,
           "width": 3.0
         },
@@ -199,7 +199,10 @@
         0.2032,
         0.254,
         0.3048,
-        0.508
+        0.508,
+        0.762,
+        1.016,
+        2.032
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -511,6 +514,7 @@
         "bus_width": 12,
         "clearance": 0.1016,
         "diff_pair_gap": 0.259903,
+        "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.1524,
         "line_style": 0,
         "microvia_diameter": 0.3,
@@ -547,7 +551,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 0,
+    "annotate_start_num": 100,
     "bom_export_filename": "sensor_python300_bom.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
@@ -648,7 +652,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "sensor_python300_output/",
+    "plot_directory": "./",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",

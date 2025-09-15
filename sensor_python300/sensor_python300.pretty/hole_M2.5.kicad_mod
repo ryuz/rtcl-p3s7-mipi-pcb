@@ -1,12 +1,13 @@
 (footprint "hole_M2.5"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 0 -0.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
+		(hide yes)
 		(uuid "a5b3507b-e07b-4be2-937d-4b6dac8bb1f0")
 		(effects
 			(font
@@ -20,19 +21,6 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "891f7466-8b66-4e13-96ac-fd0f8c99e7cf")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "a30c072d-a369-4812-b4a3-85d311a3b461")
 		(effects
 			(font
 				(size 1 1)
@@ -87,4 +75,5 @@
 		(remove_unused_layers no)
 		(uuid "7ebe86b3-3670-41b2-a673-63070c8881e9")
 	)
+	(embedded_fonts no)
 )
