@@ -4,9 +4,9 @@ Japanese version is here: [README.md](README.md)
 
 ## Overview
 
-This repository provides the design data for a compact, R&D-oriented camera module built with the onsemi [PYTHON300 image sensor](https://www.onsemi.com/products/sensors/image-sensors/python300) and the AMD (Xilinx) [Spartan-7 FPGA](https://www.amd.com/en/products/adaptive-socs-and-fpgas/fpga/spartan-7.html).
+This repository provides the KiCad design data for the global-shutter MIPI high-speed camera introduced [here](https://rtc-lab.com/products/rtcl-cam-p3s7-mipi/).
 
-The hardware was designed using KiCad.
+This is a compact, R&D-oriented camera module built with the onsemi [PYTHON300 image sensor](https://www.onsemi.com/products/sensors/image-sensors/python300) and the AMD (Xilinx) [Spartan-7 FPGA](https://www.amd.com/en/products/adaptive-socs-and-fpgas/fpga/spartan-7.html).
 
 Although the sensor is VGA-class on the datasheet and rated for up to 815 fps, we have achieved 1000 fps capture at 320×320 when connected to an [KV260](https://www.amd.com/en/products/system-on-modules/kria/k26/kv260-vision-starter-kit.html).
 
@@ -26,7 +26,7 @@ Currently, there is a project that sends data to the KV260 using a custom specif
 - [Spartan-7 Design](https://github.com/ryuz/jelly/tree/master/projects/rtcl_p3s7/rtcl_p3s7_hs)
 - [KV260 Design](https://github.com/ryuz/jelly/tree/master/projects/kv260/kv260_rtcl_p3s7_hs)
 
-We have also confirmed that it's possible to connect to ZYBO at reduced speeds and comply with MIPI-CSI standards, but these projects are not yet prepared. Please look forward to future developments.
+We have also confirmed that it's possible to connect to ZYBO at reduced speeds and comply with MIPI-CSI standards, but these projects are not yet prepared, so please look forward to future developments.
 
 ## Repository Structure
 
