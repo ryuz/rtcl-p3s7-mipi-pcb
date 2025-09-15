@@ -1,4 +1,4 @@
-English version: [README_en.md](README_en.md) / 英語版はこちら: [README_en.md](README_en.md)
+English version: [README_en.md](README_en.md)
 
 # グローバルシャッターMIPI高速度カメラ(PYTHON300 + Spartan7)
 
