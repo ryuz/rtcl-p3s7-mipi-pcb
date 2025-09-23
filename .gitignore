@@ -25,6 +25,7 @@ fabrication-toolkit-options.json
 
 #*.pdf
 *.zip
+*.pptx
 
 *.step
 *.wrl

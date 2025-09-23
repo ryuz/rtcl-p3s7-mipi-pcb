@@ -22453,6 +22453,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC" "C17275712"
+			(at 130.81 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "11"
 			(uuid "25c012e6-a0f1-4ab7-ad95-47496f113ba7")
 		)
@@ -23549,6 +23558,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC" "C17270014"
+			(at 342.9 307.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "78283881-c63d-46ca-a711-783359b1c28e")
 		)
@@ -23681,6 +23699,15 @@
 		)
 		(property "Description" "Inductor, small symbol"
 			(at 494.03 279.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C576403"
+			(at 494.03 279.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23950,6 +23977,15 @@
 		)
 		(property "Description" ""
 			(at 353.06 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C1521961"
+			(at 387.35 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25675,6 +25711,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC" "C1521961"
+			(at 224.79 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "G8"
 			(uuid "e6e250fe-a3b0-41ab-8bec-ebe788b329d6")
 		)
@@ -26620,7 +26665,7 @@
 				)
 			)
 		)
-		(property "Value" "TPS22918DBV"
+		(property "Value" "TPS22918DBVR"
 			(at 476.25 308.61 0)
 			(effects
 				(font
@@ -26647,6 +26692,15 @@
 			)
 		)
 		(property "Description" "1V to 5.5V, 2A, 80mΩ Ultra-Low Leakage Load Switch, SOT23-6"
+			(at 476.25 316.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" " C131941"
 			(at 476.25 316.23 0)
 			(effects
 				(font
@@ -29954,6 +30008,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC" "C576403"
+			(at 494.03 248.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f81903d0-7d5e-41f2-a9b9-1fe4df69c18b")
 		)
@@ -30523,6 +30586,15 @@
 		)
 		(property "Description" ""
 			(at 189.23 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C1521961"
+			(at 223.52 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31445,6 +31517,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC" "C2063555"
+			(at 130.81 322.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "73c9a49f-6274-4197-a631-155aba0f4af2")
 		)
@@ -32338,6 +32419,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC" "C507877"
+			(at 476.25 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f9ee01d6-93e8-40ae-924e-57f5ded2e17b")
 		)
@@ -32476,6 +32566,15 @@
 		)
 		(property "Description" ""
 			(at 476.25 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C507877"
+			(at 476.25 252.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34836,6 +34935,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC" "C17669095"
+			(at 342.9 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "26ff7b0f-b7fd-48c4-bf30-333ff350267e")
 		)
@@ -36976,6 +37084,15 @@
 		)
 		(property "Description" ""
 			(at 488.95 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLC" "C1521961"
+			(at 523.24 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)

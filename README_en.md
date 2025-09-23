@@ -10,6 +10,14 @@ This is a compact, R&D-oriented camera module built with the onsemi [PYTHON300 i
 
 Although the sensor is VGA-class on the datasheet and rated for up to 815 fps, we have achieved 1000 fps capture at 320×320 when connected to an [KV260](https://www.amd.com/en/products/system-on-modules/kria/k26/kv260-vision-starter-kit.html).
 
+
+## Schematics
+
+Schematics are available below:
+
+- [Image sensor daughterboard](sensor_python300/sensor_python300.pdf)
+- [FPGA baseboard](mipi_spartan7/mipi_spartan7.pdf)
+
 ![Camera Photo](docs/images/camera_photo.png)
 
 ## Board Sales

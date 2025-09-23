@@ -49,6 +49,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLC" "C507877"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(symbol "AP3401DNTR-G1_1_1"
 			(rectangle
 				(start -5.08 6.35)

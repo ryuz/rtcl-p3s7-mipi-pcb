@@ -13,6 +13,13 @@ English version: [README_en.md](README_en.md)
 
 ![カメラ外観写真](docs/images/camera_photo.png)
 
+## 回路図
+
+回路図は以下です。
+
+- [イメージセンサー子基板](sensor_python300/sensor_python300.pdf)
+- [FPGA親基板](mipi_spartan7/mipi_spartan7.pdf)
+
 
 ## 基板販売
 
