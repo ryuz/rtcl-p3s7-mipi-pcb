@@ -34,7 +34,7 @@ English version: [README_en.md](README_en.md)
 
 現時点では、KV260 に独自仕様でデータを送るプロジェクトがあります。
 
-- [Spartan-7 のデザイン](https://github.com/ryuz/jelly/tree/master/projects/rtcl_p3s7/rtcl_p3s7_hs)
+- [Spartan-7 のデザイン](https://github.com/ryuz/jelly/tree/master/projects/rtcl_p3s7/rtcl_p3s7_mipi)
 - [KV260 の デザイン](https://github.com/ryuz/jelly/tree/master/projects/kv260/kv260_rtcl_p3s7_hs)
 
 他に速度を落として ZYBO と接続できる事や、MIPI-CSI に準拠することも可能なことを確認していますが、まだプロジェクトとして準備できておりませんので今後にご期待ください。
