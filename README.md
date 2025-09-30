@@ -34,7 +34,7 @@ English version: [README_en.md](README_en.md)
 
 現時点では、KV260 に独自仕様でデータを送るプロジェクトがあります。
 
-- [Spartan-7 のデザイン](https://github.com/ryuz/rtcl-designs/tree/main/projects/rtcl_p3s7/rtcl_p3s7_mipi)
+- [Spartan-7 のデザイン](https://github.com/ryuz/rtcl-designs/tree/main/projects/rtcl_p3s7_mipi/rtcl_p3s7_mipi)
 - [KV260 の デザイン](https://github.com/ryuz/rtcl-designs/tree/main/projects/kv260/kv260_rtcl_p3s7_hs)
 
 
